@@ -1,0 +1,16 @@
+{
+  "name": "texas-engineering",
+  "version": "1.0.0",
+  "description": "A website to provide engineering services for a firm in Texas.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "open src/index.html"
+  },
+  "keywords": [
+    "engineering",
+    "services",
+    "Texas"
+  ],
+  "author": "Your Name",
+  "license": "ISC"
+}
